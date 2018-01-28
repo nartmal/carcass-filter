@@ -1053,6 +1053,11 @@ Show
 
 # Section: [8001]: Junk
 
+Show
+    Class "Rings" "Amulets" "Wand"
+    Rarity = Rare
+    SetFontSize 24
+
 # Junk
 Hide
     Class "Two Hand" "Bows" "One Hand" "Wand" "Sceptre" "Staves" "Claws" "Body Armour" "Gloves" "Boots" "Helmets" "Quivers" "Daggers" "Shields" "Belts"
