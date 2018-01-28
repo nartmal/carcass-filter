@@ -89,21 +89,21 @@ Show
     SetFontSize 45
 
 # Headhunter - Requires Zana 8 for Nemesis Map Mod or an active Legacy Nemesis Leaguestone
-Show
+Hide
     BaseType "Leather Belt"
     Rarity = Normal
     SetBorderColor 98 128 0
     SetFontSize 45
 	
 # Kaom's Heart - Life meta in 3.0
-Show
+Hide
     BaseType "Glorious Plate"
     Rarity = Normal
     SetBorderColor 98 128 0
     SetFontSize 45
 	
 # Bisco's Collar
-Show
+Hide
     BaseType "Gold Amulet"
     Rarity = Normal
     SetBorderColor 98 128 0
@@ -319,7 +319,7 @@ Show
     SetTextColor 255 255 255
     SetBackgroundColor 87 87 87
     SetBorderColor 0 0 0
-    SetFontSize 45
+    SetFontSize 20
 
 # Blacksmith's
 Show
@@ -328,7 +328,7 @@ Show
     SetTextColor 255 255 255
     SetBackgroundColor 127 127 127
     SetBorderColor 0 0 0
-    SetFontSize 45
+    SetFontSize 20
 
 # Jeweller's Orb
 Show
