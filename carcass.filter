@@ -115,7 +115,7 @@ Show
 Show
     BaseType "Hubris Circlet" "Eternal Burgonet" "Deicide Mask" "Praetor Crown" "Nightmare Bascinet" "Lion Pelt"
     Rarity < Rare
-    ItemLevel >= 74
+    ItemLevel >= 84
     SetBorderColor 255 255 255
     SetFontSize 45
 
@@ -238,7 +238,7 @@ Show
 Show
     BaseType "Hubris Circlet" "Vaal Regalia" "Sorcerer Boots" "Sorcerer Gloves" "Titanium Spirit Shield"
     Rarity = Rare
-    ItemLevel >= 74
+    ItemLevel >= 84
     SetFontSize 45
 	
 # 75+ good bases to identify
@@ -262,14 +262,14 @@ Show
     Class "Currency"
     BaseType "Portal Scroll"
     SetBorderColor 0 100 150
-    SetFontSize 45
+    SetFontSize 20
 
 # Scrolls of Wisdom
 Show
     Class "Currency"
     BaseType "Scroll of Wisdom"
     SetBorderColor 254 128 128
-    SetFontSize 45
+    SetFontSize 20
 
 # Transmutation Shard
 Show
